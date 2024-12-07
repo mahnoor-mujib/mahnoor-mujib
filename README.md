@@ -1,7 +1,4 @@
 # 💻 Software Engineering Student | Aspiring Full-Stack Developer 🚀  
-
-![Header Image](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)  
-
 Hi there! I'm a passionate Software Engineering student with a strong foundation in programming and development. Here's what I bring to the table:  
 
 - 🔥 Proficient in **C**, **Java**, **JavaFX**, and **JavaScript**.  
@@ -22,36 +19,26 @@ Hi there! I'm a passionate Software Engineering student with a strong foundation
 ---
 
 ## 🚀 **Featured Projects**
-### 🔑 [Project 1: JavaFX Desktop App](https://github.com/your-username/project1)  
-A fully functional desktop application using JavaFX. Features include:  
-- 🖥️ Modern UI/UX Design  
-- 📊 Data visualization with charts  
-- 🛡️ Secure user authentication  
+### 🩸 [Project 1: Blood Donation System (Java)](https://github.com/your-username/blood-donation-system)  
+A comprehensive application for managing blood donation drives, built with Java. Features include:  
+- 🏥 Donor and recipient management  
+- 📊 Inventory tracking for blood units  
+- 🔔 Notifications for blood requirements  
 
-### 🌐 [Project 2: JavaScript Interactive Website](https://github.com/your-username/project2)  
-An interactive, responsive web application built with HTML, CSS, and JavaScript. Features include:  
-- 🎨 Dynamic animations  
-- 🛠️ Real-time data manipulation  
-- 🌍 Cross-browser compatibility  
+### 📚 [Project 2: Library Management System (C)](https://github.com/your-username/library-management-system)  
+A CLI-based system developed in C to manage library resources efficiently. Features include:  
+- 📖 Book inventory management  
+- 👥 Member records tracking  
+- 🔎 Search and lending system  
 
 ---
 
 ## 🌱 **Current Learning Path**
-- Advanced **Java** frameworks like Spring and Hibernate.  
-- Front-end libraries like **React.js**.  
-- Best practices for **clean code** and **software architecture**.  
-
----
-
-## 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+- **JavaScript**: Mastering dynamic and interactive web development.  
+- **HTML & CSS**: Crafting visually appealing and responsive designs.  
 
 ---
 
 ## 📫 **Connect With Me**
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)  
-- ✉️ Email: your-email@example.com  
-- 🌐 [Portfolio](https://your-portfolio.com)  
+- ✉️ Email: mahnoorwork74@gmail.com
 
-![Footer Image](https://via.placeholder.com/1200x200?text=Thanks+for+visiting!+Happy+Coding!+🌟)
